@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,116,0" name="antra.Tictactoe.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,50,0" name="antra.Tictactoe.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="16,0,201,0" name="antra.Tictactoe.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181730893454">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181730893454" at="23,0,24,0" concept="1" trace="props_isTaken" />
+      <node id="1963637181730893454" at="106,36,107,76" concept="3" />
+      <node id="1963637181730893454" at="107,76,108,41" concept="0" />
+      <node id="1963637181730893454" at="108,41,109,39" concept="0" />
+      <node id="1963637181730893454" at="110,9,111,29" concept="4" />
+      <node id="1963637181730893454" at="105,41,110,9" concept="2" />
+      <scope id="1963637181730893454" at="106,36,109,39">
+        <var name="cpb" id="1963637181730893454" />
+      </scope>
+      <scope id="1963637181730893454" at="105,41,111,29" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181730893454" at="23,0,24,0" concept="5" trace="isTaken" />
+      <node id="1963637181730893454" at="37,44,38,46" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181730893454" at="28,0,29,0" concept="1" trace="myConceptisTaken" />
+      <node id="1963637181730893454" at="72,41,73,32" concept="4" />
+      <node id="1963637181730893454" at="190,65,191,157" concept="3" />
+      <node id="1963637181730893454" at="191,157,192,34" concept="0" />
+      <node id="1963637181730893454" at="192,34,193,123" concept="0" />
+      <node id="1963637181730893454" at="193,123,194,102" concept="0" />
+      <node id="1963637181730893454" at="194,102,195,17" concept="0" />
+      <node id="1963637181730914049" at="195,17,196,112" concept="0" />
+      <node id="1963637181730893454" at="196,112,197,23" concept="0" />
+      <node id="1963637181730893454" at="197,23,198,22" concept="4" />
+      <node id="1963637181730893454" at="190,0,200,0" concept="6" trace="createDescriptorForisTaken#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181730893454" at="72,41,73,32" />
+      <scope id="1963637181730893454" at="190,65,198,22">
+        <var name="b" id="1963637181730893454" />
+      </scope>
+      <scope id="1963637181730893454" at="190,0,200,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181731328452">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181731328452" at="22,0,23,0" concept="1" trace="props_While" />
+      <node id="1963637181731328452" at="99,34,100,76" concept="3" />
+      <node id="1963637181731328452" at="100,76,101,39" concept="0" />
+      <node id="1963637181731328452" at="101,39,102,37" concept="0" />
+      <node id="1963637181731328452" at="103,9,104,27" concept="4" />
+      <node id="1963637181731328452" at="98,39,103,9" concept="2" />
+      <scope id="1963637181731328452" at="99,34,102,37">
+        <var name="cpb" id="1963637181731328452" />
+      </scope>
+      <scope id="1963637181731328452" at="98,39,104,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181731328452" at="22,0,23,0" concept="5" trace="While" />
+      <node id="1963637181731328452" at="36,45,37,44" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181731328452" at="27,0,28,0" concept="1" trace="myConceptWhile" />
+      <node id="1963637181731328452" at="70,39,71,30" concept="4" />
+      <node id="1963637181731328452" at="179,63,180,155" concept="3" />
+      <node id="1963637181731328452" at="180,155,181,34" concept="0" />
+      <node id="1963637181731328452" at="181,34,182,121" concept="0" />
+      <node id="1963637181731328452" at="182,121,183,102" concept="0" />
+      <node id="1963637181731328452" at="183,102,184,17" concept="0" />
+      <node id="1963637181731328453" at="184,17,185,203" concept="0" />
+      <node id="1963637181731328455" at="185,203,186,198" concept="0" />
+      <node id="1963637181731328452" at="186,198,187,21" concept="0" />
+      <node id="1963637181731328452" at="187,21,188,22" concept="4" />
+      <node id="1963637181731328452" at="179,0,190,0" concept="6" trace="createDescriptorForWhile#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181731328452" at="70,39,71,30" />
+      <scope id="1963637181731328452" at="179,63,188,22">
+        <var name="b" id="1963637181731328452" />
+      </scope>
+      <scope id="1963637181731328452" at="179,0,190,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181731607424">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181731607424" at="15,0,16,0" concept="1" trace="props_EmptyLine" />
+      <node id="1963637181731607424" at="51,38,52,76" concept="3" />
+      <node id="1963637181731607424" at="52,76,53,41" concept="0" />
+      <node id="1963637181731607424" at="53,41,54,41" concept="0" />
+      <node id="1963637181731607424" at="55,9,56,31" concept="4" />
+      <node id="1963637181731607424" at="50,43,55,9" concept="2" />
+      <scope id="1963637181731607424" at="51,38,54,41">
+        <var name="cpb" id="1963637181731607424" />
+      </scope>
+      <scope id="1963637181731607424" at="50,43,56,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181731607424" at="15,0,16,0" concept="5" trace="EmptyLine" />
+      <node id="1963637181731607424" at="29,50,30,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181731607424" at="20,0,21,0" concept="1" trace="myConceptEmptyLine" />
+      <node id="1963637181731607424" at="56,43,57,34" concept="4" />
+      <node id="1963637181731607424" at="115,67,116,159" concept="3" />
+      <node id="1963637181731607424" at="116,159,117,33" concept="0" />
+      <node id="1963637181731607424" at="117,33,118,121" concept="0" />
+      <node id="1963637181731607424" at="118,121,119,102" concept="0" />
+      <node id="1963637181731607424" at="119,102,120,17" concept="0" />
+      <node id="1963637181731607424" at="120,17,121,23" concept="0" />
+      <node id="1963637181731607424" at="121,23,122,22" concept="4" />
+      <node id="1963637181731607424" at="115,0,124,0" concept="6" trace="createDescriptorForEmptyLine#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181731607424" at="56,43,57,34" />
+      <scope id="1963637181731607424" at="115,67,122,22">
+        <var name="b" id="1963637181731607424" />
+      </scope>
+      <scope id="1963637181731607424" at="115,0,124,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181732327372">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181732327372" at="20,0,21,0" concept="1" trace="props_Not" />
+      <node id="1963637181732327372" at="85,32,86,76" concept="3" />
+      <node id="1963637181732327372" at="86,76,87,37" concept="0" />
+      <node id="1963637181732327372" at="87,37,88,35" concept="0" />
+      <node id="1963637181732327372" at="89,9,90,25" concept="4" />
+      <node id="1963637181732327372" at="84,37,89,9" concept="2" />
+      <scope id="1963637181732327372" at="85,32,88,35">
+        <var name="cpb" id="1963637181732327372" />
+      </scope>
+      <scope id="1963637181732327372" at="84,37,90,25" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181732327372" at="20,0,21,0" concept="5" trace="Not" />
+      <node id="1963637181732327372" at="34,43,35,42" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181732327372" at="25,0,26,0" concept="1" trace="myConceptNot" />
+      <node id="1963637181732327372" at="66,37,67,28" concept="4" />
+      <node id="1963637181732327372" at="162,61,163,153" concept="3" />
+      <node id="1963637181732327372" at="163,153,164,34" concept="0" />
+      <node id="1963637181732327372" at="164,34,165,123" concept="0" />
+      <node id="1963637181732327372" at="165,123,166,102" concept="0" />
+      <node id="1963637181732327372" at="166,102,167,17" concept="0" />
+      <node id="1963637181732340002" at="167,17,168,202" concept="0" />
+      <node id="1963637181732327372" at="168,202,169,22" concept="4" />
+      <node id="1963637181732327372" at="162,0,171,0" concept="6" trace="createDescriptorForNot#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181732327372" at="66,37,67,28" />
+      <scope id="1963637181732327372" at="162,61,169,22">
+        <var name="b" id="1963637181732327372" />
+      </scope>
+      <scope id="1963637181732327372" at="162,0,171,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181732327373">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181732327373" at="18,0,19,0" concept="1" trace="props_LogicalExpression" />
+      <node id="1963637181732327373" at="72,46,73,76" concept="3" />
+      <node id="1963637181732327373" at="73,76,74,49" concept="0" />
+      <node id="1963637181732327373" at="75,9,76,39" concept="4" />
+      <node id="1963637181732327373" at="71,51,75,9" concept="2" />
+      <scope id="1963637181732327373" at="72,46,74,49">
+        <var name="cpb" id="1963637181732327373" />
+      </scope>
+      <scope id="1963637181732327373" at="71,51,76,39" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181732327373" at="18,0,19,0" concept="5" trace="LogicalExpression" />
+      <node id="1963637181732327373" at="32,49,33,56" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181732327373" at="23,0,24,0" concept="1" trace="myConceptLogicalExpression" />
+      <node id="1963637181732327373" at="62,51,63,42" concept="4" />
+      <node id="1963637181732327373" at="145,75,146,167" concept="3" />
+      <node id="1963637181732327373" at="146,167,147,33" concept="0" />
+      <node id="1963637181732327373" at="147,33,148,102" concept="0" />
+      <node id="1963637181732327373" at="148,102,149,17" concept="0" />
+      <node id="1963637181732327373" at="149,17,150,22" concept="4" />
+      <node id="1963637181732327373" at="145,0,152,0" concept="6" trace="createDescriptorForLogicalExpression#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181732327373" at="62,51,63,42" />
+      <scope id="1963637181732327373" at="145,75,150,22">
+        <var name="b" id="1963637181732327373" />
+      </scope>
+      <scope id="1963637181732327373" at="145,0,152,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/1963637181732525670">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="1963637181732525670" at="16,0,17,0" concept="1" trace="props_GameEnded" />
+      <node id="1963637181732525670" at="58,38,59,76" concept="3" />
+      <node id="1963637181732525670" at="59,76,60,43" concept="0" />
+      <node id="1963637181732525670" at="60,43,61,41" concept="0" />
+      <node id="1963637181732525670" at="62,9,63,31" concept="4" />
+      <node id="1963637181732525670" at="57,43,62,9" concept="2" />
+      <scope id="1963637181732525670" at="58,38,61,41">
+        <var name="cpb" id="1963637181732525670" />
+      </scope>
+      <scope id="1963637181732525670" at="57,43,63,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="1963637181732525670" at="16,0,17,0" concept="5" trace="GameEnded" />
+      <node id="1963637181732525670" at="30,48,31,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="1963637181732525670" at="21,0,22,0" concept="1" trace="myConceptGameEnded" />
+      <node id="1963637181732525670" at="58,43,59,34" concept="4" />
+      <node id="1963637181732525670" at="124,67,125,159" concept="3" />
+      <node id="1963637181732525670" at="125,159,126,34" concept="0" />
+      <node id="1963637181732525670" at="126,34,127,123" concept="0" />
+      <node id="1963637181732525670" at="127,123,128,102" concept="0" />
+      <node id="1963637181732525670" at="128,102,129,17" concept="0" />
+      <node id="1963637181732525670" at="129,17,130,25" concept="0" />
+      <node id="1963637181732525670" at="130,25,131,22" concept="4" />
+      <node id="1963637181732525670" at="124,0,133,0" concept="6" trace="createDescriptorForGameEnded#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="1963637181732525670" at="58,43,59,34" />
+      <scope id="1963637181732525670" at="124,67,131,22">
+        <var name="b" id="1963637181732525670" />
+      </scope>
+      <scope id="1963637181732525670" at="124,0,133,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/216782544313609775">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="216782544313609775" at="17,0,18,0" concept="1" trace="props_IfStatement" />
+      <node id="216782544313609775" at="65,40,66,76" concept="3" />
+      <node id="216782544313609775" at="66,76,67,36" concept="0" />
+      <node id="216782544313609775" at="67,36,68,43" concept="0" />
+      <node id="216782544313609775" at="69,9,70,33" concept="4" />
+      <node id="216782544313609775" at="64,45,69,9" concept="2" />
+      <scope id="216782544313609775" at="65,40,68,43">
+        <var name="cpb" id="216782544313609775" />
+      </scope>
+      <scope id="216782544313609775" at="64,45,70,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="216782544313609775" at="17,0,18,0" concept="5" trace="IfStatement" />
+      <node id="216782544313609775" at="31,48,32,49" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="216782544313609775" at="22,0,23,0" concept="1" trace="myConceptIfStatement" />
+      <node id="216782544313609775" at="60,45,61,36" concept="4" />
+      <node id="216782544313609775" at="133,69,134,160" concept="3" />
+      <node id="216782544313609775" at="134,160,135,34" concept="0" />
+      <node id="216782544313609775" at="135,34,136,121" concept="0" />
+      <node id="216782544313609775" at="136,121,137,101" concept="0" />
+      <node id="216782544313609775" at="137,101,138,17" concept="0" />
+      <node id="216782544313609803" at="138,17,139,202" concept="0" />
+      <node id="216782544313609805" at="139,202,140,203" concept="0" />
+      <node id="1963637181730893450" at="140,203,141,203" concept="0" />
+      <node id="216782544313609775" at="141,203,142,18" concept="0" />
+      <node id="216782544313609775" at="142,18,143,22" concept="4" />
+      <node id="216782544313609775" at="133,0,145,0" concept="6" trace="createDescriptorForIfStatement#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="216782544313609775" at="60,45,61,36" />
+      <scope id="216782544313609775" at="133,69,143,22">
+        <var name="b" id="216782544313609775" />
+      </scope>
+      <scope id="216782544313609775" at="133,0,145,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/2815060639985211823">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="2815060639985211823" at="21,0,22,0" concept="1" trace="props_Player" />
+      <node id="2815060639985211823" at="92,35,93,76" concept="3" />
+      <node id="2815060639985211823" at="93,76,94,40" concept="0" />
+      <node id="2815060639985211823" at="94,40,95,38" concept="0" />
+      <node id="2815060639985211823" at="96,9,97,28" concept="4" />
+      <node id="2815060639985211823" at="91,40,96,9" concept="2" />
+      <scope id="2815060639985211823" at="92,35,95,38">
+        <var name="cpb" id="2815060639985211823" />
+      </scope>
+      <scope id="2815060639985211823" at="91,40,97,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="2815060639985211823" at="21,0,22,0" concept="5" trace="Player" />
+      <node id="2815060639985211823" at="35,42,36,45" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="2815060639985211823" at="26,0,27,0" concept="1" trace="myConceptPlayer" />
+      <node id="2815060639985211823" at="68,40,69,31" concept="4" />
+      <node id="2815060639985211823" at="171,64,172,156" concept="3" />
+      <node id="2815060639985211823" at="172,156,173,34" concept="0" />
+      <node id="2815060639985211823" at="173,34,174,102" concept="0" />
+      <node id="2815060639985211823" at="174,102,175,17" concept="0" />
+      <node id="4454718177898453424" at="175,17,176,119" concept="0" />
+      <node id="2815060639985211823" at="176,119,177,22" concept="4" />
+      <node id="2815060639985211823" at="171,0,179,0" concept="6" trace="createDescriptorForPlayer#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="2815060639985211823" at="68,40,69,31" />
+      <scope id="2815060639985211823" at="171,64,177,22">
+        <var name="b" id="2815060639985211823" />
+      </scope>
+      <scope id="2815060639985211823" at="171,0,179,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/4454718177898995437">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4454718177898995437" at="12,0,13,0" concept="1" trace="props_AbstractCommand" />
+      <node id="4454718177898995437" at="31,44,32,76" concept="3" />
+      <node id="4454718177898995437" at="32,76,33,47" concept="0" />
+      <node id="4454718177898995437" at="34,9,35,37" concept="4" />
+      <node id="4454718177898995437" at="30,49,34,9" concept="2" />
+      <scope id="4454718177898995437" at="31,44,33,47">
+        <var name="cpb" id="4454718177898995437" />
+      </scope>
+      <scope id="4454718177898995437" at="30,49,35,37" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4454718177898995437" at="12,0,13,0" concept="5" trace="AbstractCommand" />
+      <node id="4454718177898995437" at="26,116,27,54" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4454718177898995437" at="17,0,18,0" concept="1" trace="myConceptAbstractCommand" />
+      <node id="4454718177898995437" at="50,49,51,40" concept="4" />
+      <node id="4454718177898995437" at="88,73,89,165" concept="3" />
+      <node id="4454718177898995437" at="89,165,90,33" concept="0" />
+      <node id="4454718177898995437" at="90,33,91,102" concept="0" />
+      <node id="4454718177898995437" at="91,102,92,17" concept="0" />
+      <node id="4454718177898995437" at="92,17,93,22" concept="4" />
+      <node id="4454718177898995437" at="88,0,95,0" concept="6" trace="createDescriptorForAbstractCommand#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4454718177898995437" at="50,49,51,40" />
+      <scope id="4454718177898995437" at="88,73,93,22">
+        <var name="b" id="4454718177898995437" />
+      </scope>
+      <scope id="4454718177898995437" at="88,0,95,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/4454718177898995633">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4454718177898995633" at="14,0,15,0" concept="1" trace="props_CommandList" />
+      <node id="4454718177898995633" at="44,40,45,76" concept="3" />
+      <node id="4454718177898995633" at="45,76,46,45" concept="0" />
+      <node id="4454718177898995633" at="46,45,47,43" concept="0" />
+      <node id="4454718177898995633" at="48,9,49,33" concept="4" />
+      <node id="4454718177898995633" at="43,45,48,9" concept="2" />
+      <scope id="4454718177898995633" at="44,40,47,43">
+        <var name="cpb" id="4454718177898995633" />
+      </scope>
+      <scope id="4454718177898995633" at="43,45,49,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4454718177898995633" at="14,0,15,0" concept="5" trace="CommandList" />
+      <node id="4454718177898995633" at="28,44,29,50" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4454718177898995633" at="19,0,20,0" concept="1" trace="myConceptCommandList" />
+      <node id="4454718177898995633" at="54,45,55,36" concept="4" />
+      <node id="4454718177898995633" at="106,69,107,161" concept="3" />
+      <node id="4454718177898995633" at="107,161,108,34" concept="0" />
+      <node id="4454718177898995633" at="108,34,109,121" concept="0" />
+      <node id="4454718177898995633" at="109,121,110,102" concept="0" />
+      <node id="4454718177898995633" at="110,102,111,17" concept="0" />
+      <node id="4454718177898995634" at="111,17,112,200" concept="0" />
+      <node id="4454718177898995633" at="112,200,113,22" concept="4" />
+      <node id="4454718177898995633" at="106,0,115,0" concept="6" trace="createDescriptorForCommandList#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4454718177898995633" at="54,45,55,36" />
+      <scope id="4454718177898995633" at="106,69,113,22">
+        <var name="b" id="4454718177898995633" />
+      </scope>
+      <scope id="4454718177898995633" at="106,0,115,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/4454718177898998603">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4454718177898998603" at="19,0,20,0" concept="1" trace="props_Move" />
+      <node id="4454718177898998603" at="78,33,79,76" concept="3" />
+      <node id="4454718177898998603" at="79,76,80,38" concept="0" />
+      <node id="4454718177898998603" at="80,38,81,36" concept="0" />
+      <node id="4454718177898998603" at="82,9,83,26" concept="4" />
+      <node id="4454718177898998603" at="77,38,82,9" concept="2" />
+      <scope id="4454718177898998603" at="78,33,81,36">
+        <var name="cpb" id="4454718177898998603" />
+      </scope>
+      <scope id="4454718177898998603" at="77,38,83,26" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4454718177898998603" at="19,0,20,0" concept="5" trace="Move" />
+      <node id="4454718177898998603" at="33,56,34,43" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4454718177898998603" at="24,0,25,0" concept="1" trace="myConceptMove" />
+      <node id="4454718177898998603" at="64,38,65,29" concept="4" />
+      <node id="4454718177898998603" at="152,62,153,154" concept="3" />
+      <node id="4454718177898998603" at="153,154,154,34" concept="0" />
+      <node id="4454718177898998603" at="154,34,155,121" concept="0" />
+      <node id="4454718177898998603" at="155,121,156,102" concept="0" />
+      <node id="4454718177898998603" at="156,102,157,17" concept="0" />
+      <node id="4454718177899165489" at="157,17,158,112" concept="0" />
+      <node id="4454718177898998603" at="158,112,159,20" concept="0" />
+      <node id="4454718177898998603" at="159,20,160,22" concept="4" />
+      <node id="4454718177898998603" at="152,0,162,0" concept="6" trace="createDescriptorForMove#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4454718177898998603" at="64,38,65,29" />
+      <scope id="4454718177898998603" at="152,62,160,22">
+        <var name="b" id="4454718177898998603" />
+      </scope>
+      <scope id="4454718177898998603" at="152,0,162,0" />
+    </file>
+  </root>
+  <root nodeRef="r:d65f08db-40ed-403a-8fcb-7b3ded91fcc5(antra.Tictactoe.structure)/4967597748807071642">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4967597748807071642" at="13,0,14,0" concept="1" trace="props_Board" />
+      <node id="4967597748807071642" at="37,34,38,76" concept="3" />
+      <node id="4967597748807071642" at="38,76,39,35" concept="0" />
+      <node id="4967597748807071642" at="39,35,40,37" concept="0" />
+      <node id="4967597748807071642" at="41,9,42,27" concept="4" />
+      <node id="4967597748807071642" at="36,39,41,9" concept="2" />
+      <scope id="4967597748807071642" at="37,34,40,37">
+        <var name="cpb" id="4967597748807071642" />
+      </scope>
+      <scope id="4967597748807071642" at="36,39,42,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4967597748807071642" at="13,0,14,0" concept="5" trace="Board" />
+      <node id="4967597748807071642" at="27,54,28,44" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4967597748807071642" at="18,0,19,0" concept="1" trace="myConceptBoard" />
+      <node id="4967597748807071642" at="52,39,53,30" concept="4" />
+      <node id="4967597748807071642" at="95,63,96,155" concept="3" />
+      <node id="4967597748807071642" at="96,155,97,33" concept="0" />
+      <node id="4967597748807071642" at="97,33,98,71" concept="0" />
+      <node id="4967597748807071642" at="98,71,99,76" concept="0" />
+      <node id="4967597748807071642" at="99,76,100,102" concept="0" />
+      <node id="4967597748807071642" at="100,102,101,17" concept="0" />
+      <node id="4454718177898453480" at="101,17,102,200" concept="0" />
+      <node id="4454718177899110279" at="102,200,103,198" concept="0" />
+      <node id="4967597748807071642" at="103,198,104,22" concept="4" />
+      <node id="4967597748807071642" at="95,0,106,0" concept="6" trace="createDescriptorForBoard#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4967597748807071642" at="52,39,53,30" />
+      <scope id="4967597748807071642" at="95,63,104,22">
+        <var name="b" id="4967597748807071642" />
+      </scope>
+      <scope id="4967597748807071642" at="95,0,106,0" />
+    </file>
+  </root>
+</debug-info>
+

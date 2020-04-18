@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="antra.Tictactoe.sandbox.ticTac">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="java.util.concurrent.ThreadLocalRandom" />
+  </dependency>
+</dependenciesRoot>
+

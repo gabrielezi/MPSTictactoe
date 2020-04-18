@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-411gj2nqxo8c1f76gqzxwms7rcfiwo0">
+  <files names="Board_Editor.java:Board_EditorBuilder_a.java:CommandList_Editor.java:CommandList_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:EmptyLineDelete.java:EmptyLine_Editor.java:EmptyLine_EditorBuilder_a.java:GameEnded_Editor.java:GameEnded_EditorBuilder_a.java:IfElse.java:IfElse_ext_1.java:IfStatement_Editor.java:IfStatement_EditorBuilder_a.java:Move_Editor.java:Move_EditorBuilder_a.java:NegateAndAlter.java:Not_Editor.java:Not_EditorBuilder_a.java:Player_Editor.java:Player_EditorBuilder_a.java:RemoveNot.java:While_Editor.java:While_EditorBuilder_a.java:While_to_if.java:isTaken_Editor.java:isTaken_EditorBuilder_a.java" />
+</product>
+
